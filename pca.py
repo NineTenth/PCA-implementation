@@ -1,7 +1,6 @@
 """
 implementation of PCA algorithm and plot the result
 
-tested with python 3.x
 """
 
 import sys
